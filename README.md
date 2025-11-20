@@ -35,6 +35,8 @@ Audio and text-based educational content in various fields
 
 Easy-to-use, mobile-friendly interface
 
+https://play.google.com/store/apps/details?id=com.banoo.women.afghan&pcampaignid=web_share
+
 2️⃣ Sawda Mobile Application
 
 Tech: Flutter, Dart, Firebase
