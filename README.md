@@ -54,6 +54,7 @@ Secure and efficient transaction process
 
 Designed to boost local commerce and entrepreneurship
 
+https://play.google.com/store/apps/details?id=com.hazara.sawda&pcampaignid=web_share
 
 
 ## 📫 Contact
