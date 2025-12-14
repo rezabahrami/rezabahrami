@@ -1,68 +1,55 @@
-# Hi, I'm [Mohammad Reza Bahrami] 👋
+# Mohammad Reza Bahrami
 
-💻 **Full Stack & Mobile Application Developer**  
-I build modern and user-friendly mobile and web applications. I love solving problems with clean, efficient, and scalable code.
+Full Stack Developer specializing in mobile and web applications. I focus on building practical solutions that people actually use.
 
----
+## What I Work With
 
-## 🧠 Skills
+I've spent the last few years working across the stack—from mobile apps in Flutter to backend systems with Node.js and Laravel. My go-to databases are MongoDB and MySQL, depending on what the project needs.
 
-**Mobile Development:** Flutter, Dart, Firebase  
-**Web & Backend:** PHP, Laravel, Node.js, Express, React  
-**Databases:** MySQL, MongoDB
-**Full Stack Development:** Integration of frontend and backend with a focus on performance, security, and usability  
+**Current tech stack:**
+- Mobile: Flutter, Dart, Firebase
+- Backend: Node.js, Express, Laravel, PHP
+- Frontend: React
+- Databases: MongoDB, MySQL
 
----
+## Projects I've Built
 
-## 💼 Projects
+### TalentFinder
+An AI-powered applicant tracking system that helps companies parse resumes and match candidates with job requirements. Built with React, Node.js, and Groq AI.
 
-Here are some of my projects you can check out:
+[Try Live Demo →](https://talent-finder-frontend-one.vercel.app/)
 
-1️⃣ Banoo Mobile Application
+### AI Agent Support
+A customer support assistant for e-commerce stores and websites. Uses AI to automatically respond to customer inquiries based on business data and common questions.
 
-Tech: Flutter, Dart, Firebase
-Description :
+Stack: React, Node.js, Firebase, AI Integration
 
-Banoo is a mobile application designed to empower women in Afghanistan by providing them with tools to generate income and access knowledge. The app allows users to showcase and sell handmade crafts and other products, helping them establish their own small businesses. In addition, Banoo offers a rich collection of audio and written books, covering topics such as science, sports, novels, and stories, to support Afghan women in education, personal development, and entertainment.
+[Try Live Demo →](https://yaar-18cbf.web.app/)
 
-Key Features:
+### Banoo
+A marketplace and learning platform for women in Afghanistan. Users can sell handmade crafts and access educational content including audiobooks and written materials across various subjects.
 
-Marketplace for handmade products and local goods
+Stack: Flutter, Dart, Firebase
 
-Personalized user profiles for sellers
+[Available on Google Play](https://play.google.com/store/apps/details?id=com.banoo.women.afghan)
 
-Audio and text-based educational content in various fields
+### Sawda
+A local marketplace app connecting buyers and sellers in a Pakistani city. Built to support small businesses and make local commerce more accessible.
 
-Easy-to-use, mobile-friendly interface
+Stack: Flutter, Dart, Firebase
 
-https://play.google.com/store/apps/details?id=com.banoo.women.afghan&pcampaignid=web_share
+[Available on Google Play](https://play.google.com/store/apps/details?id=com.hazara.sawda)
 
-2️⃣ Sawda Mobile Application
+### Additional Work
+I have two other projects in private repositories that showcase my work with different technologies and problem domains. Happy to discuss these in detail.
 
-Tech: Flutter, Dart, Firebase
-Description (English):
+## Get in Touch
 
-Sawda is a mobile app that serves as a local marketplace for a city in Pakistan, connecting buyers and sellers within the community. Users can create profiles for their businesses, list items for sale, and purchase products directly through the app. The platform is designed to support local commerce, making buying and selling convenient, secure, and accessible for everyone.
+If you want to talk about a project or just chat about tech:
 
-Key Features:
-
-Local marketplace for buying and selling goods
-
-Business and user profiles for personalized experiences
-
-Secure and efficient transaction process
-
-Designed to boost local commerce and entrepreneurship
-
-https://play.google.com/store/apps/details?id=com.hazara.sawda&pcampaignid=web_share
-
-
-## 📫 Contact
-
-- **Email:** rz.bahrami2023@gmail.com  
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/mohammadrezabahrami/)  
-
+**Email:** rz.bahrami2023@gmail.com  
+**LinkedIn:** [mohammadrezabahrami](https://www.linkedin.com/in/mohammadrezabahrami/)
 
 ---
 
-*“Always learning, always building, always improving.” 🚀*
+Currently working on improving my skills in AI integration and scalable system architecture.
